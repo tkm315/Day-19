@@ -8,3 +8,10 @@ How to Write Go Code
 
 first program , import packages from your module ,
 importing packages from remote module , testing
+
+exam time
+----------
+
+time to test myself
+my first Go course finished
+
