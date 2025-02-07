@@ -14,4 +14,5 @@ exam time
 
 time to test myself
 my first Go course finished
+https://github.com/tkm315/Day-19/blob/main/1st_Go_Course.pdf
 
